@@ -1,1 +1,1 @@
-# image-classification-cnn
+# Image-Classification-CNN

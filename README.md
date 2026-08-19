@@ -47,6 +47,7 @@ The model is evaluated using:
 - Validation Accuracy
 - Training Loss
 - Validation Loss
+  
 The training and validation curves are plotted using Matplotlib to analyze model performance and identify potential overfitting.
 
 Prediction
@@ -69,8 +70,9 @@ else:
 Results
 
 The CNN successfully learns visual features from the training images and performs binary classification between cats and dogs.
-Training Accuracy:94.8
-Validation Accuracy:92.3
-Validation Loss:0.21
+
+-Training Accuracy:94.8
+-Validation Accuracy:92.3
+-Validation Loss:0.21
 
 ⭐ If you found this project useful, consider giving the repository a star!

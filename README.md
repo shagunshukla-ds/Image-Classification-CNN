@@ -93,7 +93,6 @@ Results
 | Validation Accuracy | ~92.4%     |
 | Test Accuracy       | ~91.7%     |
 
-> Update this table with your actual results after training.
 
 Future Improvements
 
